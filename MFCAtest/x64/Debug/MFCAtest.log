@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  Ellipsefig.cpp
+  Figure2D.cpp
+  housefig.cpp
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\housefig.cpp(24,104): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\housefig.cpp(37,248): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\housefig.cpp(37,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MFCAtest.cpp
+  MFCAtestDlg.cpp
+  Parallelogramfig.cpp
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\Parallelogramfig.cpp(26,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\Parallelogramfig.cpp(26,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\Parallelogramfig.cpp(31,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\Parallelogramfig.cpp(31,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  pyramidfig.cpp
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\pyramidfig.cpp(25,124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\MFCAtest\pyramidfig.cpp(27,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Rectanglefig.cpp
+  RoundRectfig.cpp
+  Segment.cpp
+  Triangularfig.cpp
+  Generating Code...
+  MFCAtest.vcxproj -> C:\Users\tomer\OneDrive\Desktop\files\208413534_208461699_project (1)\x64\Debug\MFCAtest.exe

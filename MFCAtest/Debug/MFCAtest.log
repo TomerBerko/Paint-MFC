@@ -1,0 +1,7 @@
+﻿  MFCAtest.cpp
+  MFCAtestDlg.cpp
+  pyramidfig.cpp
+c:\users\tomer\source\repos\mfcatest\mfcatest\pyramidfig.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tomer\source\repos\mfcatest\mfcatest\pyramidfig.cpp(27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MFCAtest.vcxproj -> C:\Users\tomer\source\repos\MFCAtest\Debug\MFCAtest.exe
